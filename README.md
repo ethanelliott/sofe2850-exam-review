@@ -48,19 +48,26 @@
     * takes a long time to solve
     * mix of SR and QM
     * limitless model
+    * 12 particles of matter
+    * 3 forces of nature
+    * Higgs
   * QM
     * 2 major limitations
       * No special relativity
       * particle number must be constant
+      * Schrodeninger's wave eqn
   * Classical Mechanics
+    * classical just means its not Quantum
     * Newton's Laws
     * Maxwell
     * Wave equation on a string
-  * 
-*
-
-
-
-* Know the various wave equations
-* Quantum mehanical waves
-* EM waves
+      * y is a function of t and x, as a solution to wave eqn
+    * SR
+    * GR
+* EM Spectrum
+  * know the different frequencies
+  * it's on the eqn sheet
+* Type algebra
+  * data and a function are the same
+  * optional `std::optional<T> = T + () = std::variant<T, nullopt>`
+    * Sum Type
