@@ -71,3 +71,17 @@
   * data and a function are the same
   * optional `std::optional<T> = T + () = std::variant<T, nullopt>`
     * Sum Type
+  * Monoids
+  * Monad
+    * mathematical structure
+    * all monads are also functors
+  * referential transparency
+    * Behaves like a mathematical function
+    * strictly based on arguments
+    * no interactions with global state
+    * no random numbers
+* Models of nature
+  * fourier transform
+    * break a wave into components
+    * inner product for functions
+    
