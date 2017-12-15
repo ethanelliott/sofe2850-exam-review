@@ -150,6 +150,13 @@
   * how antenna works
 * 4
   * how a speaker and microphone works
-  * transducer
   * how the ear works (very generally)
     * draw a diagram!
+* 5
+  * simulation of maxwells eqn in class thing
+    * big lambda -> no waves through hole
+    * small lambda -> waves pass through hole
+  * small wavelength damages circuit components
+    * size on an atom or gaps (visible - microwave)
+  * DVD vs Blueray
+    * ultraviolet
